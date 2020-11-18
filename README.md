@@ -1,5 +1,6 @@
 # Smoke Test Demo
 Smoke test todos app by testing few important features.
+
 Built in feature tests add task, mark task as completed, and delete task from list. 
 
 
