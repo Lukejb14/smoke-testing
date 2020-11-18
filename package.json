@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "~25.1.0",
+    "jest": "^26.4.2",
     "playwright": "0.11.1-next.1584577781703",
-    "qawolf": "0.12.3"
+    "qawolf": "1.6.0"
   }
 }
